@@ -1,4 +1,4 @@
-# Olá, eu Leonardo Souza 
+# Olá, eu sou Leonardo Souza 
 
 ```Python 
 class Programmer
